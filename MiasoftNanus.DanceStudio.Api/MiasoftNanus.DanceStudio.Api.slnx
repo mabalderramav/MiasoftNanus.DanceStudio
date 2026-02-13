@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="../MiasoftNanus.DanceStudio.Application/MiasoftNanus.DanceStudio.Application.csproj" />
+    <Project Path="../MiasoftNanus.DanceStudio.Domain/MiasoftNanus.DanceStudio.Domain.csproj" />
+    <Project Path="../MiasoftNanus.DanceStudio.Infrastructure/MiasoftNanus.DanceStudio.Infrastructure.csproj" />
+    <Project Path="MiasoftNanus.DanceStudio.Api.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="../MiasoftNanus.DanceStudio.Application.Tests/MiasoftNanus.DanceStudio.Application.Tests.csproj" />
+    <Project Path="../MiasoftNanus.DanceStudio.Domain.Tests/MiasoftNanus.DanceStudio.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

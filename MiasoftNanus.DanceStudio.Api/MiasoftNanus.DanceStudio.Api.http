@@ -1,0 +1,6 @@
+@MiasoftNanus.DanceStudio.Api_HostAddress = http://localhost:5273
+
+GET {{MiasoftNanus.DanceStudio.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
